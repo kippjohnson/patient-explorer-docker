@@ -6,7 +6,7 @@ RUN apt-get update && apt-get install -y \
     pandoc \
     pandoc-citeproc \
     libcurl4-gnutls-dev \
-    libcairo2-dev \
+    libcairo3-dev \
     libxt-dev \
     xtail \
     wget
